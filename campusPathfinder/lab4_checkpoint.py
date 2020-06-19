@@ -1,5 +1,4 @@
 # lab4_checkpoint.py
-# CS 1 Lab Assignment #4 checkpoint by THC.
 # Creates a dictionary of Vertex objects based on reading in a file.
 # Writes out a string for each Vertex object to a file.
 
